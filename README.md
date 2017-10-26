@@ -1,4 +1,6 @@
-## Welcome to My GitHub Page
+## It's My GitHub Page
+
+I plan to use this site to learn more about using GitHub.
 
 You can use the [editor on GitHub](https://github.com/chinesegardener/chinesegardener.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
